@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Library",
+  "description": "A modern, responsive, and animated book website using React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
