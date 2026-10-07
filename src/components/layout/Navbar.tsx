@@ -38,7 +38,7 @@ export function Navbar() {
           <div className="w-8 h-8 rounded bg-primary text-on-primary flex items-center justify-center transition-transform group-hover:scale-105">
             <BookOpen size={18} />
           </div>
-          <span className="font-serif font-semibold text-xl tracking-tight">Lumina</span>
+          <span className="font-serif font-semibold text-xl tracking-tight">Book Web</span>
         </Link>
 
         {/* Desktop Nav */}
